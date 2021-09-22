@@ -33,7 +33,7 @@ To start it, follow the steps below:
 $ yarn
 
 # Start the project 
-$ yarn dev
+$ yarn start
 
 # Start server 
 $ yarn server
